@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Introduction to Machine Learning and Artificial Intelligence for Advanced Therapeutic Technologies"
+  title: "Introduction to Machine Learning and AI for Health and Sciences"
   author: "Danilo Augusto Sarti"
   date: "2025-10-21"
   site-url: "https://danilosarti.github.io/att_ml_ai_book"
@@ -32,9 +32,4 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
-    toc: true
-    number-sections: true
-    mermaid-format: png
-  epub: default
+  
