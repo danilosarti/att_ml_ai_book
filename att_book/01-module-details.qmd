@@ -1,0 +1,30 @@
+---
+title: "Module Details - AI and ML for ATT"
+author: "Danilo Sarti"
+date: 2025-10
+format:
+  html: default
+  pdf: default
+  epub: default
+execute:
+  echo: true
+---
+
+| Week | Date | Day | Start | End | Duration | Module | Activity | Activity Type | Venue | Contributor | Class Size |
+|----|----|----|----|----|----|----|----|----|----|----|----|
+| 1 | 1/9/2026 | Friday | 14:00 | 16:00 | 2:00 | COMB2 | Intro to AI and ML, Foundations of Model Comparisons - Version control, Data professionals portfolio, ethics and regulatory aspects | Workshop | Newman Study | Sarti, Danilo | Full |
+| 2 | 1/15/2026 | Thursday | 10:00 | 13:00 | 3:00 | COMB2 | Supervised Learning: Regression Tasks (Lasso, Ridge) | Workshop | TR4 | Sarti, Danilo | Full |
+| 3 | 1/22/2026 | Thursday | 9:00 | 11:00 | 2:00 | COMB2 | Supervised Learning: Logistic Regression | Workshop | TR1 | Valeria | Full |
+| 4 | 1/27/2026 | Tuesday | 11:00 | 12:00 | 1:00 | COMB2 | Introduction to missing data | Workshop | TR4 | Sarti, Danilo | Full |
+| 5 | 1/28/2026 | Wednesday | 9:00 | 11:00 | 2:00 | COMB2 | Supervised Learning: ROC Curves | Workshop | Newman Study | Valeria | Full |
+| 6 | 2/4/2026 | Wednesday | 13:00 | 16:00 | 3:00 | COMB2 | Supervised Learning: other methods (Tree methods, KNN, SVM, etc) | Workshop | Newman Study | Sarti, Danilo | Full |
+| 7 | 2/9/2026 | Monday | 9:30 | 11:10 |  | CA | Continuous Assessment | — | — | — | — |
+| 8 | 2/11/2026 | Wednesday | 10:00 | 12:00 | 2:00 | COMB2 | Factor Analysis | Workshop | Newman Study | Valeria | Full |
+| 9 | 2/12/2026 | Thursday | 12:00 | 14:00 | 2:00 | COMB2 | Probabilistic Machine Learning: Bayesian methods, modeling interactions | Workshop | Mercers 102-104 | Sarti, Danilo | Full |
+| 10 | 2/26/2026 | Thursday | 14:00 | 16:00 | 2:00 | COMB2 | Unsupervised Learning I: High Dimension data strategies | Workshop | Newman Study | Sarti, Danilo | Full |
+| 11 | 3/2/2026 | Monday | 10:00 | 12:00 | 2:00 | COMB2 | Unsupervised Learning II: Classification strategies | Workshop | TR4 | Sarti, Danilo | Full |
+| 12 | 3/9/2026 | Monday | 14:00 | 16:00 | 2:00 | COMB2 | Reinforcement Learning | Workshop | TR4 | Sarti, Danilo | Full |
+| 13 | 3/13/2026 | Friday | 11:00 | 13:00 | 2:00 | COMB2 | Interpretable Machine Learning: feature interactions and feature importance | Workshop | Newman Study | Sarti, Danilo | Full |
+| 14 | 3/20/2026 | Friday | 13:00 | 15:00 | 2:00 | COMB2 | Interpretable Machine Learning II: Visualisation Techniques (VIVID, VSUPS, PDP plots, Networks) | Workshop | Newman Study | Sarti, Danilo | Full |
+| 15 | 3/27/2026 | Friday | 10:00 | 13:00 | 3:00 | COMB2 | Generative AI: Foundations and concepts | Workshop | Newman Study | Sarti, Danilo | Full |
+| 16 | 3/30/2026 | Monday | 14:00 | 16:00 | 2:00 | COMB2 | Generative AI: Applications | Workshop | TR4 | Sarti, Danilo | Full |
