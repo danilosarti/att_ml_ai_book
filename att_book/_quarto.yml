@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Introduction to Machine Learning and AI for Health and Sciences"
+  title: "Introduction to Machine Learning and AI for Health Sciences"
   author: "Danilo Augusto Sarti"
   date: "2025-10-21"
   site-url: "https://danilosarti.github.io/att_ml_ai_book"
