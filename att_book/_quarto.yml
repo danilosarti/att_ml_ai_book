@@ -10,16 +10,6 @@ book:
   chapters:
     - index.qmd
     - introduction_AI.qmd
-    - supervised_regression.qmd
-    - three_methods.qmd
-    - neural_networks.qmd
-    - introd_bayesian.qmd
-    - intro_missing.qmd
-    - high_dims.qmd
-    - clustering.qmd
-    - interpretable.qmd
-    - genai_foundations.qmd
-    - genai_app.qmd
     - references.qmd
 
 bibliography:
